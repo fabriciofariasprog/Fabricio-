@@ -1,0 +1,21 @@
+{
+  "contaSemDescricao": {
+    "tipo": "entrada",
+    "valor": "150,00",
+    "vencimento": "10",
+    "categoria": "Salário"
+  },
+  "contaComDescricao": {
+    "tipo": "saida",
+    "valor": "89,90",
+    "vencimento": "5",
+    "categoria": "Assinaturas",
+    "descricao": "Assinatura Netflix"
+  },
+  "contaDuplicidade": {
+    "tipo": "entrada",
+    "valor": "77,00",
+    "vencimento": "20",
+    "categoria": "TesteDuplicidade"
+  }
+}
